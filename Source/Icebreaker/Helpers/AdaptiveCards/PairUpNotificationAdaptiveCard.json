@@ -57,6 +57,11 @@
       "url": "%meetingLink%"
     },
     {
+      "type": "Action.OpenUrl",
+      "title": "Get some IceBreaker Ideas",
+      "url": "https://www.youtube.com/watch?v=oHg5SJYRHA0"
+    },
+    {
       "type": "Action.Submit",
       "title": "%pauseMatchesButtonText%",
       "data": {
