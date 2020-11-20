@@ -154,7 +154,16 @@
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
-    <value>How about some conversation starters? "As a child what was something you wanted to be when you grow up?" or "What would constitute a 'perfect' work day for you?"</value>
+    <value>
+    How about some conversation starters?
+    <list type="bullet">
+    <item>
+    <description>"As a child what was something you wanted to be when you grow up?"</description>
+    </item>
+    <item>
+    <description>"What would constitute a 'perfect' work day for you?"</description>
+    </item>
+    </list></value>
     <comment>Second part of the match up card main content</comment>
   </data>
     <data name="MatchUpCardContentPart3" xml:space="preserve">
