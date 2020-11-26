@@ -154,24 +154,11 @@
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
-    <value>
-    How about some conversation starters?
-    <list type="bullet">
-    <item>
-    <description>"As a child what was something you wanted to be when you grow up?"</description>
-    </item>
-    <item>
-    <description>"What would constitute a 'perfect' work day for you?"</description>
-    </item>
-    </list></value>
+    <value>See Connect for some conversation starters</value>
     <comment>Second part of the match up card main content</comment>
   </data>
-    <data name="MatchUpCardContentPart3" xml:space="preserve">
-    <value>{9}</value>
-    <comment>Hyperlink testing</comment>
-  </data>
   <data name="MatchUpCardMatchedText" xml:space="preserve">
-    <value>You've been matched with {0}.</value>
+    <value>You've been matched. with {0}.</value>
     <comment>The text saying who the user has been matched up with</comment>
   </data>
   <data name="MatchUpCardTitleContent" xml:space="preserve">
